@@ -1,5 +1,5 @@
 # space-time-clustering
-Visualization of the space-time clustering Acute Lymphoblastic Leukemia High Hyperdiploid subtype is Sweden
+Visualization of the space-time clustering Acute Lymphoblastic Leukemia of high hyperdiploid subtype in Sweden
 
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/glebbychkov/space-time-clustering/main/birth_clustering2.html 
 
